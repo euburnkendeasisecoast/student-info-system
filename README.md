@@ -48,4 +48,4 @@ Feature branches are merged into `main` via pull requests
 (e.g. `feature/add-student`, `feature/update-delete`).
 
 ## Author
-<Euburn Ken M. De Asis>
+<Author Euburn Ken M. De Asis>
